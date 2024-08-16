@@ -1,0 +1,3 @@
+[submodule "bangkok/02-dotmesh/src/chain"]
+	path = bangkok/02-dotmesh/src/chain
+	url = https://github.com/dot-mesh/chain
